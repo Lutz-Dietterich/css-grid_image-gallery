@@ -24,6 +24,7 @@ body {
 .teaser-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
+
   min-width: 40rem;
   min-height: 50vh;
 
